@@ -5,7 +5,7 @@ HOW TO USE
 
 Android
 
-1.Download RenameTool.zip and unzip.
+1.Download RenameTool.zip and unzip.<br>
 2.Download C compiler on Google play :https://play.google.com/store/apps/details?id=com.dztall.ccr.android.admob
 3.Import your CameraRaw to Renametool folder (RenameTool.c same directly)
 4.Open C compiler app, run the RenameTool.c
