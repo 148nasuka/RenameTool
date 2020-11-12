@@ -1,7 +1,7 @@
 # RenameTool
 This tool rename the CameraRAW to .dng
 
-HOW TO USE
+<h1>HOW TO USE</h1>
 
 Android
 
