@@ -3,7 +3,7 @@ This tool rename the CameraRAW to .dng
 
 <h1>HOW TO USE</h1>
 
-#Android
+Android<br>
 1.Download RenameTool.zip and unzip.<br>
 2.Download <a href = "https://play.google.com/store/apps/details?id=com.dztall.ccr.android.admob">C compiler </a>on Google play  <br>
 3.Import your CameraRaw to Renametool folder (in the same location as RenameTool.c)<br>
