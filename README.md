@@ -1,6 +1,6 @@
 # RenameTool
 <p>This tool rename the CameraRAW to .dng.</p>
-<p>By changing "Camera RAW" to ".dng", you can edit RAW photos even in the free version of Lightroom.
+<p>By changing "Camera RAW" to ".dng", you can edit RAW photos even in the free version Lightroom.
 </p>
 <h2>HOW TO USE</h2>
 <h3>Android</h3>
