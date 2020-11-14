@@ -1,6 +1,6 @@
 # RenameTool
 <p>This tool rename the CameraRAW to .dng.</p>
-<p>By changing "Camera RAW" to ".dng", you can edit RAW photos even in the free version Lightroom.<br>
+<p>By changing "Camera RAW" to ".dng", you can edit RAW photos even in the free version Lightroom app.<br>
 This tool can rename up to 999 photos at a time
 </p>
 <h2>HOW TO USE</h2>
